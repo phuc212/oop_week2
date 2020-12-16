@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lớp Animal và interface Edible/1.0.0": {
+        "runtime": {
+          "lớp Animal và interface Edible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lớp Animal và interface Edible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.csprojAssemblyReference.cache
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.AssemblyInfoInputs.cache
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.AssemblyInfo.cs
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.csproj.CoreCompileInputs.cache
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\lớp Animal và interface Edible.exe
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\lớp Animal và interface Edible.deps.json
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\lớp Animal và interface Edible.runtimeconfig.json
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\lớp Animal và interface Edible.runtimeconfig.dev.json
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\lớp Animal và interface Edible.dll
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\ref\lớp Animal và interface Edible.dll
+D:\module2\oop_week2\lớp Animal và interface Edible\bin\Debug\net5.0\lớp Animal và interface Edible.pdb
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.dll
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\ref\lớp Animal và interface Edible.dll
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.pdb
+D:\module2\oop_week2\lớp Animal và interface Edible\obj\Debug\net5.0\lớp Animal và interface Edible.genruntimeconfig.cache
