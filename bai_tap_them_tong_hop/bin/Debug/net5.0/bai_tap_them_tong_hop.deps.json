@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bai_tap_them_tong_hop/1.0.0": {
+        "runtime": {
+          "bai_tap_them_tong_hop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai_tap_them_tong_hop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
